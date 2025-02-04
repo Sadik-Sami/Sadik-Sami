@@ -10,16 +10,16 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadik-Sami&theme=algolia&show_icons=true&hide_border=false&count_private=true" 
+  <img height='200' src="https://github-readme-stats.vercel.app/api?username=Sadik-Sami&theme=algolia&show_icons=true&hide_border=false&count_private=true" 
      alt="Sadik-Sami's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sami&theme=algolia&hide_border=false" 
+<img height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sami&theme=algolia&hide_border=false" 
      alt="Sadik-Sami's Streak Stats" />
 </div>
-<div class="center">
+<div height="200" class="center">
   <picture height="200">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" height="200" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source height="200" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source height="200" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img height="200" alt="github contribution grid snake animation" height="200" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
