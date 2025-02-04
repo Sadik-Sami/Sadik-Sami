@@ -23,8 +23,6 @@
   </picture>
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="center">Techologies I'm Familiar With</h2>
@@ -57,7 +55,31 @@
 
 ###
 
-<br clear="both">
+<h2 align="center">Tools I'm Cofortable With</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+</div>
+
+###
+
+###
 
 <div class="center">
 <h2 align="center">About Me 💡</h2>
@@ -85,7 +107,11 @@
   
 </div>
 
-<h2 align="center">Find Me Here</h2>
+###
+
+<br clear="both">
+
+<h2 align="center">Connect With Me</h2>
 
 ###
 
@@ -107,30 +133,6 @@
   <a href="https://x.com/Simanto60010034" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<h2 align="center">Tools I'm Cofortable With</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
 </div>
 
 ###
