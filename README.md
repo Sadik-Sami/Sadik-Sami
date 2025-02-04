@@ -9,10 +9,18 @@
 ###
 
 <br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadik-Sami&theme=algolia&show_icons=true&hide_border=true&count_private=true" height="200" alt="Sadik-Sami's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sami&theme=algolia&hide_border=true" height="200" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadik-Sami&theme=algolia&show_icons=true&hide_border=false&count_private=true" 
+     alt="Sadik-Sami's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sami&theme=algolia&hide_border=false" 
+     alt="Sadik-Sami's Streak Stats" />
+</div>
+<div class="center">
+  <picture height="200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" height="200" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ###
@@ -100,12 +108,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sadik-Sami/Sadik-Sami/output/snake.svg" alt="Snake animation" />
 
 ###
 
