@@ -104,7 +104,17 @@
   <li>🎯 <strong>Goal:</strong> <em>Master full-stack development and explore AI-powered applications</em></li>
   <li>🎮 <strong>Hobby:</strong> <em>Gaming, learning new tech, and solving coding challenges</em></li>
 </ul>
-  
+
+  <h3>🔥 Current Activities</h3>
+
+<ul>
+  <li>⚛️ Improving <strong>state management</strong> skills with <strong>Redux Toolkit & Zustand</strong></li>
+  <li>📊 Learning more about <strong>Data Science & Machine Learning</strong></li>
+  <li>🏗️ Working on <strong>MERN stack projects</strong> to build scalable applications</li>
+  <li>🚀 Exploring <strong>AI-powered web applications</strong></li>
+  <li>🎯 Enhancing backend performance and <strong>database optimization</strong></li>
+</ul>
+
 </div>
 
 ###
