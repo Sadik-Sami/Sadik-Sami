@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <img height="520" src="https://i.ibb.co.com/yBg8Mmkz/Yellow-Furniture-Sale-Facebook-Ad.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/yBg8Mmkz/Yellow-Furniture-Sale-Facebook-Ad.jpg"  />
 </div>
 
 ###
 
 <br clear="both">
 <div align="center">
-  <img height='200' src="https://github-readme-stats.vercel.app/api?username=Sadik-Sami&theme=algolia&show_icons=true&hide_border=false&count_private=true" 
+  <img height='150' src="https://github-readme-stats.vercel.app/api?username=Sadik-Sami&theme=algolia&show_icons=true&hide_border=false&count_private=true" 
      alt="Sadik-Sami's GitHub Stats" />
-<img height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sami&theme=algolia&hide_border=false" 
+<img height='150' src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sami&theme=algolia&hide_border=false" 
      alt="Sadik-Sami's Streak Stats" />
 </div>
 <div height="200" class="center">
