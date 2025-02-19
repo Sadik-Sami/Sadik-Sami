@@ -12,7 +12,7 @@
 <div align="center">
   <img height='150' src="https://github-readme-stats.vercel.app/api?username=Sadik-Sami&theme=algolia&show_icons=true&hide_border=false&count_private=true" 
      alt="Sadik-Sami's GitHub Stats" />
-<img height='150' src="https://github-readme-streak-stats.herokuapp.com/?user=Sadik-Sami&theme=algolia&hide_border=false" 
+<img height='150' src="https://nirzak-streak-stats.vercel.app?user=Sadik-Sami&theme=tokyonight" 
      alt="Sadik-Sami's Streak Stats" />
 </div>
 <div height="200" class="center">
