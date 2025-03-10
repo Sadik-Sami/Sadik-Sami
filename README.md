@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/yBg8Mmkz/Yellow-Furniture-Sale-Facebook-Ad.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/wXLxzNT/banner.png"  />
 </div>
 
 ###
